@@ -1,6 +1,4 @@
-# Weekend Health Challenge
-
-## Approach
+# Approach
 At a high level, I approached the problem as follows:
 1. Initialize an empty array to be used as the result set.
 2. Loop through every word "w" in the dictionary.
